@@ -8,6 +8,6 @@
 
 这个修改后的版本我就用MIT协议了。
 
-你们可以在http://hypnosnova.github.io/WebGL_Pacman/玩这个游戏。
+你们可以在http://hypnosnova.github.io/WebGL_Pacman/ 玩这个游戏。
 
 Play it at：http://hypnosnova.github.io/WebGL_Pacman/
