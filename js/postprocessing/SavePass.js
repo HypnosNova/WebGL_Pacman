@@ -1,6 +1,3 @@
-/**
- * @author alteredq / http://alteredqualia.com/
- */
 
 THREE.SavePass = function ( renderTarget ) {
 

@@ -1,6 +1,7 @@
 // javascript-astar
 // http://github.com/bgrins/javascript-astar
 // Freely distributable under the MIT License.
+// Includes Binary Heap (with modifications) from Marijn Haverbeke. 
 
 var GraphNodeType = { 
     OPEN: 1, 
